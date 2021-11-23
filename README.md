@@ -1,9 +1,8 @@
 # Number-wizard
 How to play:
-Firstly,players enter the name
-Secendly,players choose their number
-if number =0 wons 
+Firstly,enter the name
+Secondly,enter any number between 1-21
+if number =0, player wins  
 # Rules
-1-Any player did not enter number <=0 or >5
+1-Any player cannot enter number <=0 or >5
 2-You can not enter negative number 
-3-
